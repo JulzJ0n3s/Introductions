@@ -1,1 +1,2 @@
-put "Hello Alex!"
+puts "Hello Alex!"
+puts "Hello Julia!"
